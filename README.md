@@ -1,8 +1,9 @@
-WELCOME!
+#Welcome
 
 You are reading this README, because you are a boss.
 
-ENjoy!
+_Enjoy!_
 
 Christopher Mote
-@Mottetts
+\n
+@mottetts
